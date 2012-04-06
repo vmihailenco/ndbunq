@@ -8,7 +8,7 @@ Example
 =======
 
 There is full working example for Flask:
-https://github.com/vmihailenco/ndbunq-example/:
+https://github.com/vmihailenco/ndbunq-example/::
 
     import ndbunq
     from google.appengine.ext import ndb
